@@ -216,16 +216,17 @@ hr {
 }
 
 @media (max-width: 700px){
-    }
-    .news-cards {
+    
+    
+.news-cards {
         grid-template-columns: (2fr, 1fr);
     }
 
-    .cards-banner-one .content {
+.cards-banner-one .content {
         width: 80%;
     }
 
-    .footer-links .footer-container{
+.footer-links .footer-container{
         grid-template-columns: (2, 1fr);
     }
 }
